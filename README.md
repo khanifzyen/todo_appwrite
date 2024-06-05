@@ -1,16 +1,11 @@
 # todo_appwrite
 
-A new Flutter project.
+Simple todo app built with flutter, provider and appwrite.
 
-## Getting Started
+## How to install
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this project
+2. Make sure you have appwrite instance, and create your appwrite project and your database
+3. Copy constants.example.dart to constants.dart
+4. Change constant setting by fill out your desired appwrite instance setting
+5. Run project
